@@ -31,6 +31,6 @@ def key_for_min_value(name_hash)
         current_minimum_val = value
         current_key_assoc_w_min_val = key 
       end
-    end
+    endcurrent_key_assoc_w_min_val 
   end 
-  current_key_assoc_w_min_val 
+  
